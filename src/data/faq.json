@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is CareerHub?",
+    "answer": "CareerHub is a job portal application that enables companies to post job openings and users to search and apply for them. It offers user-friendly interfaces and secure authentication, catering to both job seekers and employers."
+  },
+  {
+    "question": "How can I post a job?",
+    "answer": "As an employer, you can post a job by navigating to the 'Post Job' section after logging in. Fill in the job details and submit the form to create a new job listing."
+  },
+  {
+    "question": "How do I search for jobs?",
+    "answer": "Job seekers can search for jobs by keywords, location, category, and other filters using the search bar on the homepage or the dedicated job search page."
+  },
+  {
+    "question": "How do I apply for a job?",
+    "answer": "As a job seeker, you can find jobs by using keywords, location, category, and various filters through the search bar on the homepage or the job search page."
+  },
+  {
+    "question": "Is it possible to save jobs for later?",
+    "answer": "Yes, you can save job listings by selecting the 'Save Job' button on the listing. You can view your saved jobs in the 'Saved Jobs' section of your profile."
+  },
+  {
+    "question": "How can I keep track of my job applications?",
+    "answer": "You can track your job applications in the 'Applications' section of your profile, where you'll find updates on the status of each application."
+  }
+]

@@ -3,7 +3,6 @@
 ## Introduction
 
 Nexvia is a full-stack job portal platform that allows companies to post job listings and users to search and apply for jobs. The application provides features for both job seekers and employers, with user-friendly interfaces and secure authentication.
-
 ## Features
 
 - **Job Listings:** Companies can post job listings, and users can browse and search for jobs.
@@ -26,6 +25,8 @@ Nexvia is a full-stack job portal platform that allows companies to post job lis
   - Clerk
 - **Version Control:**
   - Git & GitHub
+ 
+## Live Demo: [Click Here](https://nexvia.vercel.app/)
 
 
 ### Installation

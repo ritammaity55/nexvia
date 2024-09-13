@@ -1,8 +1,8 @@
-# CareerHub : A full-stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI
+# Nexvia : A full-stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI
 
 ## Introduction
 
-CareerHub is a full-stack job portal platform that allows companies to post job listings and users to search and apply for jobs. The application provides features for both job seekers and employers, with user-friendly interfaces and secure authentication.
+Nexvia is a full-stack job portal platform that allows companies to post job listings and users to search and apply for jobs. The application provides features for both job seekers and employers, with user-friendly interfaces and secure authentication.
 
 ## Features
 
@@ -33,10 +33,10 @@ CareerHub is a full-stack job portal platform that allows companies to post job 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ritammaity55/career-hub.git
+   git clone https://github.com/ritammaity55/nexvia.git
 2. **Change the directory to the following folder:**
     ```bash
-    cd .\career-hub\
+    cd .\nexvia\
 3. **Install dependencies:**
     ```bash
     npm install

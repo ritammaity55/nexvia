@@ -1,4 +1,4 @@
-# Nexvia : A full-stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI
+# Nexvia : A full-stack Job Portal Platform built using React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI
 
 ## Introduction
 
